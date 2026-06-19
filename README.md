@@ -2,6 +2,9 @@
 Predictive analytics dashboard to identify 30-day hospital readmission risk using Python, SQL, and Power BI
 # 🏥 Hospital Readmission Risk Intelligence Dashboard
 
+## Dashboard Preview
+![Dashboard](dashboard/Screenshot%202026-06-16%20020523.png)
+
 ## 📌 Problem Statement
 Hospital readmission within 30 days costs healthcare systems billions annually. 
 This project builds a predictive analytics system to identify high-risk patients 
